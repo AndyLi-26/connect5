@@ -1,0 +1,5 @@
+done: dynamic board
+	track history
+	regreat
+doing: bug fix
+           
